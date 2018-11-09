@@ -1,17 +1,17 @@
 # EL wire inverter
 An DIY EL-wire invertor circuit
 
-##About
+## About
 A schematic and PCB design will be put here.
 Other documentation can be found in documentation folder.
 
 Feel free to help out.
 
-##Author
+## Author
 Mathijs S
 
-##contributers
+## contributers
 Na
 
-##sources
+## sources
 The interwebs
